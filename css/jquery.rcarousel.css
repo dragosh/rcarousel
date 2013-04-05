@@ -1,0 +1,33 @@
+/* RSlider Css Cusomize */
+
+/*Slider Nav*/
+.rc-wrapper{
+   
+    
+}
+.rc-wrapper .controls{
+    background: rgba(127,127,127,.5);
+    color: white;
+}
+/*Progress bar*/
+.rc-progress {
+        
+}
+.rc-progress .bar{
+    background: #000;    
+}
+/*Slider*/
+
+/*Slides*/
+.carousel li.selected{    
+ 
+}
+.carousel li.selected img{
+    opacity: 1;
+}
+.carousel li img{
+    opacity: .5;
+    display: inline-block;
+    max-height:100%;
+    max-width:100%;
+}
